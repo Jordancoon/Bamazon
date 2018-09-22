@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Jordancoon/Bamazon/issues"
   },
-  "homepage": "https://github.com/Jordancoon/Bamazon#readme"
+  "homepage": "https://github.com/Jordancoon/Bamazon#readme",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "figlet": "^1.2.0",
+    "first-run": "^1.2.0",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
 }
