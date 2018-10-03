@@ -8,7 +8,7 @@ var figlet = require('figlet');
 
 // Store DB connection + credentials
 // config.js is in gitignore to ease cross-machine development
-var mysql_config = require("./config.js");
+var mysql_config = require("../config.js");
 var connection = mysql.createConnection(mysql_config);
 
 function start() {
